@@ -1,0 +1,1 @@
+{"version":3,"sources":["ShowDetails.css"],"names":[],"mappings":"AAAA,aACI,WAAY,CACZ,YACJ,CAEA,aACI,aACJ","file":"main.c56d751a.chunk.css","sourcesContent":[".details img {\n    width: 100px;\n    height: 200px;\n}\n\n.details_div {\n    display: block;\n}"]}
